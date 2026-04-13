@@ -15,4 +15,4 @@ F. Gỡ lỗi: https://github.com/Tuanha0302/BaiTap1_UDMNM/blob/main/Ph%E1%BA%A7
 
 G1. Triển khai ứng dụng đến End-user: https://github.com/Tuanha0302/BaiTap1_UDMNM/blob/main/Ph%E1%BA%A7n%20G1.md
 
-G2. Câu hỏi về bài làm? 
+G2. Câu hỏi về bài làm? https://github.com/Tuanha0302/BaiTap1_UDMNM/blob/main/Ph%E1%BA%A7n%20G2.md
